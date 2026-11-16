@@ -1,2 +1,0 @@
-# Olimpiadi-Informatica
-Esercizi svolti
