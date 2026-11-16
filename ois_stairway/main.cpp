@@ -23,7 +23,9 @@ int main() {
 
 
     // INSERT YOUR CODE HERE
-
+    for (int i = 1; i <= N; i++) {
+        S += i;
+    }
 
     cout << S << endl;
 
